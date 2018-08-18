@@ -1,0 +1,26 @@
+.navbar-brand {
+    background-color: #4aaaa5;
+    padding: 20px;
+}
+
+#portfolio1 {
+    border-left: 1px solid #cccccc;
+    border-right: 1px solid #cccccc;
+}
+
+#headshot {
+    height: 200px;
+    width: 200px;
+    float: left;
+    border-radius: 5px;
+}
+h3 {
+    color:#4aaaa5;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+}
+
+.row {
+    display: block;
+}
