@@ -13,6 +13,8 @@
     width: 200px;
     float: left;
     border-radius: 5px;
+    margin-right: 10px;
+    
 }
 h3 {
     color:#4aaaa5;
@@ -21,6 +23,43 @@ h3 {
     font-family: 'Georgia', Times, "Times New Roman", serif;
 }
 
-.row {
-    display: block;
+
+
+footer {
+color:white;
+background-color:#666666;
+width: 100%;
+padding-top:20px;
+text-align: center;
+border-top: 8px solid #4aaaa5;
+}
+
+#submit {
+    margin-bottom: 20px;
+    margin-top: 15px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    border: solid #4aaaa5 1px;
+    padding: 10px 15px 10px 15px;
+}
+
+#name, #email, #message {
+    width: 100%;
+}
+.figure-caption{
+    background-color: #4aaaa5;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    color: #ffffff;
+ }
+.figure {
+    width: auto;
+}
+ .container {
+     margin-bottom: 60px;
+ }
+
+ body {
+     background-image: url("/assets/images/background.jpg");
 }
